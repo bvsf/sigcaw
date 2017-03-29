@@ -11,7 +11,9 @@ __pycache__
 *.so
 
 # Distribution / packaging
+.idea
 .Python
+envdir/
 env/
 build/
 develop-eggs/
@@ -64,3 +66,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# temporal develop images
+avatars/
